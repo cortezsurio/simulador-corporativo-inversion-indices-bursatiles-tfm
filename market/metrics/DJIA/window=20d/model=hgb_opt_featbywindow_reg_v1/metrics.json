@@ -1,0 +1,11 @@
+{
+    "ticker": "DJIA",
+    "window": "20d",
+    "model_family": "hgb_opt_featbywindow_reg_v1",
+    "rmse": 0.03930670007474104,
+    "r2": -0.2343991467655573,
+    "da": 0.5288611544461779,
+    "pos_hit_rate": 0.7722371967654986,
+    "neg_hit_rate": 0.19444444444444445,
+    "score": 7.852900134605599
+}

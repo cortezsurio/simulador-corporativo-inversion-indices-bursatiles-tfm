@@ -1,0 +1,11 @@
+{
+    "ticker": "RUSSELL2000",
+    "window": "180d",
+    "model_family": "lstm_pytorch_clf_v1",
+    "auc": 0.5941117441716682,
+    "f1": 0.6905286343612335,
+    "accuracy": 0.566692367000771,
+    "pos_hit_rate": 0.9601837672281777,
+    "neg_hit_rate": 0.16770186335403728,
+    "score": 0.6115191500182462
+}

@@ -1,0 +1,11 @@
+{
+    "ticker": "RUSSELL2000",
+    "window": "180d",
+    "model_family": "hgb_opt_featbywindow_reg_v1",
+    "rmse": 0.09554058805021022,
+    "r2": -0.0927369163402112,
+    "da": 0.5855614973262032,
+    "pos_hit_rate": 0.6232771822358346,
+    "neg_hit_rate": 0.5330490405117271,
+    "score": 3.414665870885815
+}

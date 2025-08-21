@@ -1,0 +1,11 @@
+{
+    "ticker": "WILSHIRE5000",
+    "window": "20d",
+    "model_family": "hgb_opt_featbywindow_reg_v1",
+    "rmse": 0.043982533246402895,
+    "r2": -0.12770514531254706,
+    "da": 0.5670826833073322,
+    "pos_hit_rate": 0.6691919191919192,
+    "neg_hit_rate": 0.4020408163265306,
+    "score": 7.077700478561181
+}

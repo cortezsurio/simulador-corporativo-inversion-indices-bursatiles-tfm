@@ -1,0 +1,11 @@
+{
+    "ticker": "SP500",
+    "window": "20d",
+    "model_family": "hgb_opt_featbywindow_reg_v1",
+    "rmse": 0.042909737537239236,
+    "r2": -0.1762997074528294,
+    "da": 0.5390015600624025,
+    "pos_hit_rate": 0.6783042394014963,
+    "neg_hit_rate": 0.30625,
+    "score": 7.223279520063315
+}

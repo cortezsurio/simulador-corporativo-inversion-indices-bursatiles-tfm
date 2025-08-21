@@ -1,0 +1,11 @@
+{
+    "ticker": "NASDAQ",
+    "window": "5d",
+    "model_family": "hgb_opt_featbywindow_clf_v1",
+    "auc": 0.5114749165709284,
+    "f1": 0.7155865024102839,
+    "accuracy": 0.5636811832374692,
+    "pos_hit_rate": 0.9867060561299852,
+    "neg_hit_rate": 0.03333333333333333,
+    "score": 0.5828586012881893
+}

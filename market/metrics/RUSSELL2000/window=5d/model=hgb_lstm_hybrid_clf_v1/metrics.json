@@ -1,0 +1,11 @@
+{
+    "ticker": "RUSSELL2000",
+    "window": "5d",
+    "model_family": "hgb_lstm_hybrid_clf_v1",
+    "auc": 0.5398909578786351,
+    "f1": 0.6849122807017544,
+    "accuracy": 0.5366357069143447,
+    "pos_hit_rate": 0.9549902152641878,
+    "neg_hit_rate": 0.06986899563318777,
+    "score": 0.5772540340467233
+}

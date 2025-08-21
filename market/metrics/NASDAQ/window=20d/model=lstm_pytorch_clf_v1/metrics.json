@@ -1,0 +1,11 @@
+{
+    "ticker": "NASDAQ",
+    "window": "20d",
+    "model_family": "lstm_pytorch_clf_v1",
+    "auc": 0.565381606047705,
+    "f1": 0.7646454265159301,
+    "accuracy": 0.6221122112211221,
+    "pos_hit_rate": 0.9973190348525469,
+    "neg_hit_rate": 0.02145922746781116,
+    "score": 0.6253083782453508
+}

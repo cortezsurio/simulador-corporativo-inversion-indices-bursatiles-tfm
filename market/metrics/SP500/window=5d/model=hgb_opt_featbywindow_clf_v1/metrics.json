@@ -1,0 +1,11 @@
+{
+    "ticker": "SP500",
+    "window": "5d",
+    "model_family": "hgb_opt_featbywindow_clf_v1",
+    "auc": 0.5324232320185874,
+    "f1": 0.5490506329113924,
+    "accuracy": 0.5281456953642384,
+    "pos_hit_rate": 0.5058309037900874,
+    "neg_hit_rate": 0.5574712643678161,
+    "score": 0.536401515367632
+}

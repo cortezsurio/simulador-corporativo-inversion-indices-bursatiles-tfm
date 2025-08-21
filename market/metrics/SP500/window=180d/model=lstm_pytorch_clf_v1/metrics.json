@@ -1,0 +1,11 @@
+{
+    "ticker": "SP500",
+    "window": "180d",
+    "model_family": "lstm_pytorch_clf_v1",
+    "auc": 0.32821415937370224,
+    "f1": 0.7902064330292847,
+    "accuracy": 0.6630686198920586,
+    "pos_hit_rate": 1.0,
+    "neg_hit_rate": 0.07805907172995781,
+    "score": 0.5759458088723036
+}

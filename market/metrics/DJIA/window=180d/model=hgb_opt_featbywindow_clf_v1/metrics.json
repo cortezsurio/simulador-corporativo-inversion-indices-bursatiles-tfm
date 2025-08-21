@@ -1,0 +1,11 @@
+{
+    "ticker": "DJIA",
+    "window": "180d",
+    "model_family": "hgb_opt_featbywindow_clf_v1",
+    "auc": 0.5504635975167298,
+    "f1": 0.8346456692913385,
+    "accuracy": 0.7328767123287672,
+    "pos_hit_rate": 0.8777070063694268,
+    "neg_hit_rate": 0.25316455696202533,
+    "score": 0.6751952788413191
+}

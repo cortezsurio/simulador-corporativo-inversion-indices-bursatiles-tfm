@@ -1,0 +1,11 @@
+{
+    "ticker": "NASDAQ",
+    "window": "180d",
+    "model_family": "hgb_opt_featbywindow_reg_v1",
+    "rmse": 0.13599427865161487,
+    "r2": -0.1730415672800305,
+    "da": 0.5944741532976827,
+    "pos_hit_rate": 0.6982097186700768,
+    "neg_hit_rate": 0.3558823529411765,
+    "score": 2.460304911284483
+}
